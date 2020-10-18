@@ -3,12 +3,35 @@
     <title>Pakerisan Media</title>
     <link href="https://pakerisan.com/feed.xml" rel="self" />
     <link href="https://pakerisan.com" />
-    <updated>2020-10-18T19:06:49+08:00</updated>
+    <updated>2020-10-18T19:13:29+08:00</updated>
     <author>
         <name>Pakerisan</name>
     </author>
     <id>https://pakerisan.com</id>
 
+    <entry>
+        <title>Surya Erawan</title>
+        <author>
+            <name>Pakerisan</name>
+        </author>
+        <link href="https://pakerisan.com/surya-erawan.html"/>
+        <id>https://pakerisan.com/surya-erawan.html</id>
+            <category term="Portfolio"/>
+
+        <updated>2020-10-18T19:13:29+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pakerisan.com/media/posts/11/ibse.png" alt="" />
+                    Blog Pribadi Surya Erawan
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pakerisan.com/media/posts/11/ibse.png" alt="" />
+                <p class="align-center">Blog Pribadi Surya Erawan</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Jasa Copywriting - Konten Website</title>
         <author>
@@ -58,8 +81,9 @@
         </author>
         <link href="https://pakerisan.com/the-nani-ubud.html"/>
         <id>https://pakerisan.com/the-nani-ubud.html</id>
+            <category term="Portfolio"/>
 
-        <updated>2020-10-18T18:44:28+08:00</updated>
+        <updated>2020-10-18T19:10:55+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/8/nni.png" alt="" />
@@ -81,7 +105,7 @@
         <link href="https://pakerisan.com/jasa-pembuatan-website.html"/>
         <id>https://pakerisan.com/jasa-pembuatan-website.html</id>
 
-        <updated>2020-10-18T18:40:49+08:00</updated>
+        <updated>2020-10-18T19:11:09+08:00</updated>
             <summary>
                 <![CDATA[
                     Pakerisan melayani pembuatan website dengan berbagai macam keperluan. Baik untuk tujuan bisnis, organisasi maupun personal. Pakerisan Media berpengalaman melayani pembuatan&hellip;
@@ -101,8 +125,9 @@
         </author>
         <link href="https://pakerisan.com/umah-hoshi.html"/>
         <id>https://pakerisan.com/umah-hoshi.html</id>
+            <category term="Portfolio"/>
 
-        <updated>2020-10-18T18:04:17+08:00</updated>
+        <updated>2020-10-18T19:11:16+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/6/osi.png" alt="" />
@@ -123,8 +148,9 @@
         </author>
         <link href="https://pakerisan.com/nicks-hidden-cottage.html"/>
         <id>https://pakerisan.com/nicks-hidden-cottage.html</id>
+            <category term="Portfolio"/>
 
-        <updated>2020-10-18T18:03:53+08:00</updated>
+        <updated>2020-10-18T19:11:24+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/5/nhc.png" alt="" />
@@ -145,8 +171,9 @@
         </author>
         <link href="https://pakerisan.com/cendana-resort-and-spa-ubud.html"/>
         <id>https://pakerisan.com/cendana-resort-and-spa-ubud.html</id>
+            <category term="Portfolio"/>
 
-        <updated>2020-10-18T18:03:31+08:00</updated>
+        <updated>2020-10-18T19:11:32+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/4/cdn.png" alt="" />
@@ -167,8 +194,9 @@
         </author>
         <link href="https://pakerisan.com/adi-bisma-inn.html"/>
         <id>https://pakerisan.com/adi-bisma-inn.html</id>
+            <category term="Portfolio"/>
 
-        <updated>2020-10-18T18:03:17+08:00</updated>
+        <updated>2020-10-18T19:11:39+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/3/abi-2.png" alt="" />
@@ -190,8 +218,9 @@
         </author>
         <link href="https://pakerisan.com/villa-kirani-ubud.html"/>
         <id>https://pakerisan.com/villa-kirani-ubud.html</id>
+            <category term="Portfolio"/>
 
-        <updated>2020-10-18T18:03:26+08:00</updated>
+        <updated>2020-10-18T19:11:49+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/2/krn.png" alt="" />
@@ -209,38 +238,6 @@
   <p>
     Villa Kirani Ubud&nbsp;
   </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pakerisan Media</title>
-        <author>
-            <name>Pakerisan</name>
-        </author>
-        <link href="https://pakerisan.com/pakerisan-media.html"/>
-        <id>https://pakerisan.com/pakerisan-media.html</id>
-
-        <updated>2020-10-18T19:02:29+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pakerisan.com/media/posts/1/allie-vuWCq1bXZy0-unsplash.jpg" alt="" />
-                    Pembuatan Website - Web DevelopmentPakerisan melayani pembuatan website dengan berbagai macam keperluan. Baik untuk tujuan bisnis, organisasi maupun personal. Pakerisan&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pakerisan.com/media/posts/1/allie-vuWCq1bXZy0-unsplash.jpg" alt="" />
-                <h2 class="align-center"><span style="font-weight: 400;">Pembuatan Website - Web Development</span></h2>
-<p><span style="font-weight: 400;">Pakerisan melayani pembuatan website dengan berbagai macam keperluan. Baik untuk tujuan bisnis, organisasi maupun personal. </span></p>
-<p><span style="font-weight: 400;">Pakerisan Media berpengalaman melayani pembuatan website hotel, website travel, toko, photographer dan juga website personal atau untuk blog pribadi.</span></p>
-<h2 class="align-center"><span style="font-weight: 400;">Jasa Pembuatan Konten (isi) Website </span></h2>
-<p><span style="font-weight: 400;">Apakah anda ingin agar isi website anda selalu update secara periodik dengan isi yang sesuai dengan bidang usaha? Serahkan kepada tim Pakerisan Media. Kami akan menyiapkan isi atau konten website anda  agar selalu menarik sesuai dengan bidang usaha anda. </span></p>
-<p><span style="font-weight: 400;">Konten yang dinamis bisa ditaruh di bagian blog sehingga bisa menjadi salah satu daya tarik bagi orang-orang untuk mengunjungi website anda. </span></p>
-<h2 class="align-center"><span style="font-weight: 400;">Jasa Manajemen Media Sosial (Instagram) </span></h2>
-<p><span style="font-weight: 400;">Instagram adalah satu alat untuk melakukan promosi dan memperlihatkan eksistensi, baik bisnis, organisasi maupun perorangan. </span></p>
-<p><span style="font-weight: 400;">Pakerisan Media siap membantu anda untuk menangani urusan media sosial anda, dari mempersiapkan konten sampai dengan melakukan posting secara periodik setiap hari. </span></p>
-<p><span style="font-weight: 400;">Konten yang meliputi foto dan isinya (copywriting) disesuaikan dengan bidang usaha atau saluran yang anda geluti. </span></p>
-<p class="align-center"><br><br><br><br><br></p>
             ]]>
         </content>
     </entry>
