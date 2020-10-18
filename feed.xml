@@ -3,7 +3,7 @@
     <title>Pakerisan Media</title>
     <link href="https://pakerisan.com/feed.xml" rel="self" />
     <link href="https://pakerisan.com" />
-    <updated>2020-10-18T19:13:29+08:00</updated>
+    <updated>2020-10-18T19:21:41+08:00</updated>
     <author>
         <name>Pakerisan</name>
     </author>
@@ -18,17 +18,17 @@
         <id>https://pakerisan.com/surya-erawan.html</id>
             <category term="Portfolio"/>
 
-        <updated>2020-10-18T19:13:29+08:00</updated>
+        <updated>2020-10-18T19:20:20+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/11/ibse.png" alt="" />
-                    Blog Pribadi Surya Erawan
+                    Web design untuk web pribadi yang berisi tulisan blog yang dipublikasikan untuk keperluan pribadi di website dengan domain sendiri.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pakerisan.com/media/posts/11/ibse.png" alt="" />
-                <p class="align-center">Blog Pribadi Surya Erawan</p>
+                <p class="align-center">Web design untuk web pribadi yang berisi tulisan blog yang dipublikasikan untuk keperluan pribadi di website dengan domain sendiri.</p>
             ]]>
         </content>
     </entry>
@@ -83,17 +83,17 @@
         <id>https://pakerisan.com/the-nani-ubud.html</id>
             <category term="Portfolio"/>
 
-        <updated>2020-10-18T19:10:55+08:00</updated>
+        <updated>2020-10-18T19:21:41+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/8/nni.png" alt="" />
-                    The Nani Ubud 
+                    Website resmin hotel The Nani Ubud. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pakerisan.com/media/posts/8/nni.png" alt="" />
-                <p class="align-center">The Nani Ubud </p>
+                <p class="align-left">Website resmin hotel The Nani Ubud. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan pemesanan kamar di website bersangkutan. </p>
             ]]>
         </content>
     </entry>
