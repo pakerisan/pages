@@ -3,12 +3,34 @@
     <title>Pakerisan Media</title>
     <link href="https://pakerisan.com/feed.xml" rel="self" />
     <link href="https://pakerisan.com" />
-    <updated>2020-10-18T18:40:49+08:00</updated>
+    <updated>2020-10-18T18:44:28+08:00</updated>
     <author>
         <name>Pakerisan</name>
     </author>
     <id>https://pakerisan.com</id>
 
+    <entry>
+        <title>The Nani Ubud </title>
+        <author>
+            <name>Pakerisan</name>
+        </author>
+        <link href="https://pakerisan.com/the-nani-ubud.html"/>
+        <id>https://pakerisan.com/the-nani-ubud.html</id>
+
+        <updated>2020-10-18T18:44:28+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pakerisan.com/media/posts/8/nni.png" alt="" />
+                    The Nani Ubud 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pakerisan.com/media/posts/8/nni.png" alt="" />
+                <p class="align-center">The Nani Ubud </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Jasa Pembuatan Website</title>
         <author>
