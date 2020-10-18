@@ -3,10 +3,33 @@
     <title>Pakerisan Media</title>
     <link href="https://pakerisan.com/feed.xml" rel="self" />
     <link href="https://pakerisan.com" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2020-10-18T17:26:42+08:00</updated>
     <author>
         <name>Pakerisan</name>
     </author>
     <id>https://pakerisan.com</id>
 
+    <entry>
+        <title>Pakerisan Media</title>
+        <author>
+            <name>Pakerisan</name>
+        </author>
+        <link href="https://pakerisan.com/pakerisan-media.html"/>
+        <id>https://pakerisan.com/pakerisan-media.html</id>
+
+        <updated>2020-10-18T17:26:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pakerisan.com/media/posts/1/allie-vuWCq1bXZy0-unsplash.jpg" alt="" />
+                    Selamat Datang di Pakerisan MediaPakerisan.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pakerisan.com/media/posts/1/allie-vuWCq1bXZy0-unsplash.jpg" alt="" />
+                <p class="align-center">Selamat Datang di Pakerisan Media</p>
+<h2 class="align-center">Pakerisan.com</h2>
+            ]]>
+        </content>
+    </entry>
 </feed>
