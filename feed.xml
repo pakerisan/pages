@@ -3,7 +3,7 @@
     <title>Pakerisan Media</title>
     <link href="https://pakerisan.com/feed.xml" rel="self" />
     <link href="https://pakerisan.com" />
-    <updated>2020-10-18T19:25:31+08:00</updated>
+    <updated>2020-10-18T19:39:58+08:00</updated>
     <author>
         <name>Pakerisan</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://pakerisan.com/surya-erawan.html"/>
         <id>https://pakerisan.com/surya-erawan.html</id>
-            <category term="Portfolio"/>
+            <category term="Pakerisan Media"/>
+            <category term="Klien"/>
 
-        <updated>2020-10-18T19:20:20+08:00</updated>
+        <updated>2020-10-18T19:39:19+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/11/ibse.png" alt="" />
@@ -81,9 +82,10 @@
         </author>
         <link href="https://pakerisan.com/the-nani-ubud.html"/>
         <id>https://pakerisan.com/the-nani-ubud.html</id>
-            <category term="Portfolio"/>
+            <category term="Pakerisan Media"/>
+            <category term="Klien"/>
 
-        <updated>2020-10-18T19:23:46+08:00</updated>
+        <updated>2020-10-18T19:39:36+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/8/nni.png" alt="" />
@@ -125,7 +127,7 @@
         </author>
         <link href="https://pakerisan.com/umah-hoshi.html"/>
         <id>https://pakerisan.com/umah-hoshi.html</id>
-            <category term="Portfolio"/>
+            <category term="Klien"/>
 
         <updated>2020-10-18T19:24:09+08:00</updated>
             <summary>
@@ -148,7 +150,7 @@
         </author>
         <link href="https://pakerisan.com/nicks-hidden-cottage.html"/>
         <id>https://pakerisan.com/nicks-hidden-cottage.html</id>
-            <category term="Portfolio"/>
+            <category term="Klien"/>
 
         <updated>2020-10-18T19:24:23+08:00</updated>
             <summary>
@@ -171,7 +173,7 @@
         </author>
         <link href="https://pakerisan.com/cendana-resort-and-spa-ubud.html"/>
         <id>https://pakerisan.com/cendana-resort-and-spa-ubud.html</id>
-            <category term="Portfolio"/>
+            <category term="Klien"/>
 
         <updated>2020-10-18T19:24:45+08:00</updated>
             <summary>
@@ -194,7 +196,7 @@
         </author>
         <link href="https://pakerisan.com/adi-bisma-inn.html"/>
         <id>https://pakerisan.com/adi-bisma-inn.html</id>
-            <category term="Portfolio"/>
+            <category term="Klien"/>
 
         <updated>2020-10-18T19:25:00+08:00</updated>
             <summary>
@@ -217,9 +219,10 @@
         </author>
         <link href="https://pakerisan.com/villa-kirani-ubud.html"/>
         <id>https://pakerisan.com/villa-kirani-ubud.html</id>
-            <category term="Portfolio"/>
+            <category term="Pakerisan Media"/>
+            <category term="Klien"/>
 
-        <updated>2020-10-18T19:25:31+08:00</updated>
+        <updated>2020-10-18T19:39:58+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/2/krn.png" alt="" />
