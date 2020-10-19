@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://pakerisan.com/depot-kita.html",
+            "url": "https://pakerisan.com/depot-kita.html",
+            "title": "Depot Kita",
+            "summary": "Website toko sembako online yang berisi item barang-barang yang dijual",
+            "content_html": "<p>Website toko sembako online yang berisi item barang-barang yang dijual</p>",
+            "image": "https://pakerisan.com/media/posts/12/dkt.png",
+            "author": {
+                "name": "Pakerisan"
+            },
+            "tags": [
+                   "Pakerisan Media",
+                   "Klien"
+            ],
+            "date_published": "2020-10-19T09:48:32+08:00",
+            "date_modified": "2020-10-19T09:48:32+08:00"
+        },
+        {
             "id": "https://pakerisan.com/surya-erawan.html",
             "url": "https://pakerisan.com/surya-erawan.html",
             "title": "Surya Erawan",
@@ -149,23 +166,6 @@
             ],
             "date_published": "2020-10-18T18:01:18+08:00",
             "date_modified": "2020-10-19T09:44:04+08:00"
-        },
-        {
-            "id": "https://pakerisan.com/villa-kirani-ubud.html",
-            "url": "https://pakerisan.com/villa-kirani-ubud.html",
-            "title": "Villa Kirani Ubud ",
-            "summary": " Website resmi Villa Kirani Ubud&nbsp; &nbsp;Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan&hellip;",
-            "content_html": "\n  <p>\n    Website resmi Villa Kirani Ubud&nbsp; &nbsp;Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan pemesanan kamar di website bersangkutan.&nbsp;\n  </p>",
-            "image": "https://pakerisan.com/media/posts/2/krn.png",
-            "author": {
-                "name": "Pakerisan"
-            },
-            "tags": [
-                   "Pakerisan Media",
-                   "Klien"
-            ],
-            "date_published": "2020-10-18T17:59:57+08:00",
-            "date_modified": "2020-10-18T19:39:58+08:00"
         }
     ]
 }
