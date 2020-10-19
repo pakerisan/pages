@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://pakerisan.com/kenapa-harus-punya-website.html",
+            "url": "https://pakerisan.com/kenapa-harus-punya-website.html",
+            "title": "Kenapa Harus Punya Website",
+            "summary": "Memiliki website di era digital seperti sekarang ini adalah sebuah keharusan jika anda ingin bisnis yang anda jalankan tetap bisa&hellip;",
+            "content_html": "<p>Memiliki website di era digital seperti sekarang ini adalah sebuah keharusan jika anda ingin bisnis yang anda jalankan tetap bisa berpacu dengan pesaing anda. </p>\n<p>Website anda adalah elatalase anda yang bisa dilihat oleh calon <em>customer </em>potensial anda atau oleh <em>customer </em>yang sudah memakai produk atau jasa yang anda tawarkan. </p>\n<p>Website dengan domain anda sendiri terbukti menambah tingkat profesionalisme dan bisa meningkatkan kepercayaan calon <em>customer </em>ataupun yang sudah menjadi <em>customer </em>anda. </p>",
+            "author": {
+                "name": "Pakerisan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-19T10:03:41+08:00",
+            "date_modified": "2020-10-19T10:03:41+08:00"
+        },
+        {
             "id": "https://pakerisan.com/depot-kita.html",
             "url": "https://pakerisan.com/depot-kita.html",
             "title": "Depot Kita",
@@ -149,23 +163,6 @@
             ],
             "date_published": "2020-10-18T18:02:19+08:00",
             "date_modified": "2020-10-18T19:24:45+08:00"
-        },
-        {
-            "id": "https://pakerisan.com/adi-bisma-inn.html",
-            "url": "https://pakerisan.com/adi-bisma-inn.html",
-            "title": "Adi Bisma Inn",
-            "summary": "Website resmi hotel Adi Bisma Inn. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan&hellip;",
-            "content_html": "<p class=\"align-left\">Website resmi hotel Adi Bisma Inn. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan pemesanan kamar di website bersangkutan. </p>",
-            "image": "https://pakerisan.com/media/posts/3/abi-2.png",
-            "author": {
-                "name": "Pakerisan"
-            },
-            "tags": [
-                   "Pakerisan Media",
-                   "Klien"
-            ],
-            "date_published": "2020-10-18T18:01:18+08:00",
-            "date_modified": "2020-10-19T09:44:04+08:00"
         }
     ]
 }

@@ -3,12 +3,34 @@
     <title>Pakerisan Media</title>
     <link href="https://pakerisan.com/feed.xml" rel="self" />
     <link href="https://pakerisan.com" />
-    <updated>2020-10-19T09:56:55+08:00</updated>
+    <updated>2020-10-19T10:03:41+08:00</updated>
     <author>
         <name>Pakerisan</name>
     </author>
     <id>https://pakerisan.com</id>
 
+    <entry>
+        <title>Kenapa Harus Punya Website</title>
+        <author>
+            <name>Pakerisan</name>
+        </author>
+        <link href="https://pakerisan.com/kenapa-harus-punya-website.html"/>
+        <id>https://pakerisan.com/kenapa-harus-punya-website.html</id>
+
+        <updated>2020-10-19T10:03:41+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Memiliki website di era digital seperti sekarang ini adalah sebuah keharusan jika anda ingin bisnis yang anda jalankan tetap bisa&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Memiliki website di era digital seperti sekarang ini adalah sebuah keharusan jika anda ingin bisnis yang anda jalankan tetap bisa berpacu dengan pesaing anda. </p>
+<p>Website anda adalah elatalase anda yang bisa dilihat oleh calon <em>customer </em>potensial anda atau oleh <em>customer </em>yang sudah memakai produk atau jasa yang anda tawarkan. </p>
+<p>Website dengan domain anda sendiri terbukti menambah tingkat profesionalisme dan bisa meningkatkan kepercayaan calon <em>customer </em>ataupun yang sudah menjadi <em>customer </em>anda. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Depot Kita</title>
         <author>
@@ -210,30 +232,6 @@
             <![CDATA[
                     <img src="https://pakerisan.com/media/posts/4/cdn.png" alt="" />
                 <p class="align-left">Website resmi hotel Cendana Resort &amp; Spa Ubud. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan pemesanan kamar di website bersangkutan. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Adi Bisma Inn</title>
-        <author>
-            <name>Pakerisan</name>
-        </author>
-        <link href="https://pakerisan.com/adi-bisma-inn.html"/>
-        <id>https://pakerisan.com/adi-bisma-inn.html</id>
-            <category term="Pakerisan Media"/>
-            <category term="Klien"/>
-
-        <updated>2020-10-19T09:44:04+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pakerisan.com/media/posts/3/abi-2.png" alt="" />
-                    Website resmi hotel Adi Bisma Inn. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pakerisan.com/media/posts/3/abi-2.png" alt="" />
-                <p class="align-left">Website resmi hotel Adi Bisma Inn. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan pemesanan kamar di website bersangkutan. </p>
             ]]>
         </content>
     </entry>
