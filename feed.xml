@@ -3,7 +3,7 @@
     <title>Pakerisan Media</title>
     <link href="https://pakerisan.com/feed.xml" rel="self" />
     <link href="https://pakerisan.com" />
-    <updated>2020-10-19T09:55:30+08:00</updated>
+    <updated>2020-10-19T09:56:55+08:00</updated>
     <author>
         <name>Pakerisan</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Pakerisan Media"/>
             <category term="Klien"/>
 
-        <updated>2020-10-19T09:48:32+08:00</updated>
+        <updated>2020-10-19T09:56:34+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/12/dkt.png" alt="" />
@@ -109,7 +109,7 @@
             <category term="Pakerisan Media"/>
             <category term="Klien"/>
 
-        <updated>2020-10-19T09:55:30+08:00</updated>
+        <updated>2020-10-19T09:56:55+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pakerisan.com/media/posts/8/nni.png" alt="" />
@@ -119,7 +119,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://pakerisan.com/media/posts/8/nni.png" alt="" />
-                <p class="align-left">Website hotel The Nani Ubud. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan pemesanan kamar di website bersangkutan. </p>
+                <p class="align-left">Website hotel The Nani Ubud. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan pemesanan di website bersangkutan.</p>
             ]]>
         </content>
     </entry>
