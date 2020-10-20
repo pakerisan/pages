@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://pakerisan.com/duana-sari-ubud.html",
+            "url": "https://pakerisan.com/duana-sari-ubud.html",
+            "title": "Duana Sari Ubud",
+            "summary": "Website hotel Duana Sari Ubud. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan pemesanan&hellip;",
+            "content_html": "<p class=\"align-left\">Website hotel Duana Sari Ubud. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan pemesanan di website bersangkutan.</p>",
+            "image": "https://pakerisan.com/media/posts/15/dns.png",
+            "author": {
+                "name": "Pakerisan"
+            },
+            "tags": [
+                   "Klien"
+            ],
+            "date_published": "2020-10-20T08:43:49+08:00",
+            "date_modified": "2020-10-20T08:43:49+08:00"
+        },
+        {
             "id": "https://pakerisan.com/peran-website-and-media-sosial.html",
             "url": "https://pakerisan.com/peran-website-and-media-sosial.html",
             "title": "Peran Website &amp; Media Sosial",
@@ -145,22 +161,6 @@
             ],
             "date_published": "2020-10-18T18:04:17+08:00",
             "date_modified": "2020-10-18T19:24:09+08:00"
-        },
-        {
-            "id": "https://pakerisan.com/nicks-hidden-cottage.html",
-            "url": "https://pakerisan.com/nicks-hidden-cottage.html",
-            "title": "Nick&#x27;s Hidden Cottage",
-            "summary": "Website resmi hotel Nick's Hidden Cottage. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan&hellip;",
-            "content_html": "<p class=\"align-left\">Website resmi hotel Nick's Hidden Cottage. Berisi informasi tentang hotel lengkap dengan reservasi online di mana tamu bisa langsung melakukan pemesanan kamar di website bersangkutan. </p>",
-            "image": "https://pakerisan.com/media/posts/5/nhc.png",
-            "author": {
-                "name": "Pakerisan"
-            },
-            "tags": [
-                   "Klien"
-            ],
-            "date_published": "2020-10-18T18:03:53+08:00",
-            "date_modified": "2020-10-18T19:24:23+08:00"
         }
     ]
 }
